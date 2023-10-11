@@ -1,6 +1,6 @@
---> Olá, meu nome é João Marcello e eu sou FullStacks
+# --> Olá, meu nome é João Marcello e eu sou FullStacks
 
---> Áreas do conhecimento:
+# --> Áreas do conhecimento:
 
 <table style="border-collapse: collapse;">
       <div style="text-align: left;">
@@ -10,7 +10,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" height="30" width="40">
       </div>
       
---> Minhas redes sociais:
+# --> Minhas redes sociais:
   
   <div> 
   <a href="https://www.instagram.com/jmarcellomb_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
