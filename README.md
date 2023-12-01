@@ -1,4 +1,4 @@
-# --> Olá, meu nome é João Marcello e eu sou FullStack
+# --> Olá, meu nome é João Marcello e eu sou um Futuro FullStack
 
 # --> Áreas do conhecimento:
 
