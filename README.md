@@ -4,7 +4,7 @@
 
 <table style="border-collapse: collapse;">
       <div style="text-align: left;">
-        <h2>Básico: </h2>
+        <h2>Front-end: </h2>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" height="30" width="40">
