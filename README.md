@@ -12,7 +12,7 @@
        <div style="text-align: left;">
         <h2>Back-end: </h2>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Phyton" height="30" width="40">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Phyton" height="30" width="40">
       </div>
       
 # --> Minhas redes sociais:
